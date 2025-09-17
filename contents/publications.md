@@ -16,5 +16,5 @@ Huang, J., **Zhou, Z.**, M., Miao, M., Li, H., & Hu, Q. Development of benzoxazo
 
 Kitteringham, E., **Zhou, Z.**, Twamley, B., & Griffith, D. M. Au (III) and Pt (II) complexes of a novel and versatile 1, 4-disubstituted 1, 2, 3-triazole-based ligand possessing diverse secondary and tertiary coordinating groups. Inorganic Chemistry, 2018, 57(19), 12282-12290.
 
-Li, Huanqiu, Zhou, Zehao, Huang, Jun, Chen, Xihua. A benzoxazole-2-ethyl oxime derivative, its preparation method, and application. CN107759532A
+Li Huanqiu, **Zhou Zehao**, Huang Jun, Chen Xihua. A benzoxazole-2-ethyl oxime derivative, its preparation method, and application. CN107759532A
 
