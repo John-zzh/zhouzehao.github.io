@@ -1,17 +1,15 @@
+[![John-zzh](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/John-zzh)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a AI4S Researcher at Zhongguancun Academy.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zehaozhousuda[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D, Chemistry, Case Western Reserve University, 2018—2023.\
+B.S., Pharmacy, Soochow University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Quantum Chemistry with AI, Time-Dependent Density Functional Theory, Large Scale Eigenvalue Problem and Linear Equation, Molecular Dynamics,
+Generative Model, Photo-chemical Molecular Design, Protein-drug interaction
