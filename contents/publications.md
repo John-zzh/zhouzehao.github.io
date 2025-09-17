@@ -1,16 +1,11 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
-#### Published
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+Zhai, Z., Bai X., Chen F., **Zhou, Z.**, etc., Yi Qin Gao, Bo Yan, Zhe Zhang, Fang Jiao. Dynamic dissection of NINJ1-mediated plasma membrane rupture reveals a multi-stage process. Science, (submitted)
+**Zhou, Z.**, & Parker, S. M. Converging TDDFT calculations in five iterations with minimal auxiliary preconditioning. Journal of Chemical Theory and Computation, 2024, 20 (15), 6738-6746. 
+**Zhou, Z.**, Sala, F. D., & Parker, S. M. Minimal auxiliary basis set approach for the electronic excitation spectra of organic molecules. The Journal of Physical Chemistry Letters, 2023, 14, 7, 1968–1976.
+**Zhou, Z.**, & Parker, S. M. Accelerating molecular property calculations with semiempirical preconditioning. The Journal of Chemical Physics, 2021, 155(20), 204111. 
+Gupta, M., Singha, M., Rasale, D. B., **Zhou, Z.**, Bhandari, S., Beasley, S., Sakr, J., Parker, S.M. & Spitale, R.C. Mutually Orthogonal Bioconjugation of Vinyl Nucleosides for RNA Metabolic Labeling. Organic Letters, 2021, 23(18), 7183-7187.
+Jimenez, J. C., **Zhou, Z.**, Rheingold, A. L., Parker, S. M., & Sauve, G. Tuning the Properties of Azadipyrromethene-Based Near-Infrared Dyes Using Intramolecular BO Chelation and Peripheral Substitutions. Inorganic Chemistry, 2021, 60(17), 13320-13331.
+**Zhou, Z.**, Li, H., & Liu, F. DNA methyltransferase inhibitors and their therapeutic potential. Current Topics in Medicinal Chemistry, 2018, 18(28), 2448-2457.
+Huang, J., **Zhou, Z.**, M., Miao, M., Li, H., & Hu, Q. Development of benzoxazole deoxybenzoin oxime and acyloxylamine derivatives targeting innate immune sensors and xanthine oxidase for treatment of gout. Bioorganic & Medicinal Chemistry, 2018, 26(8), 1653-1664.
+Kitteringham, E., **Zhou, Z.**, Twamley, B., & Griffith, D. M. Au (III) and Pt (II) complexes of a novel and versatile 1, 4-disubstituted 1, 2, 3-triazole-based ligand possessing diverse secondary and tertiary coordinating groups. Inorganic Chemistry, 2018, 57(19), 12282-12290.
+Li, Huanqiu, Zhou, Zehao, Huang, Jun, Chen, Xihua. A benzoxazole-2-ethyl oxime derivative, its preparation method, and application. CN107759532A
 
