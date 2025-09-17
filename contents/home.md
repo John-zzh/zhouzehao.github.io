@@ -1,4 +1,4 @@
-[![John-zzh](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/John-zzh)
+[![John-zzh](https://img.shields.io/badge/John-zzh-github-blue?logo=github)](https://github.com/John-zzh)
 
 He is currently a AI4S Researcher at Zhongguancun Academy.
 
